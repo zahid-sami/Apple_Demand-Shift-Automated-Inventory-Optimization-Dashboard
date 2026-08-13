@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://allsport.mu/collections/apple?srsltid=AfmBOoqVWFIa-tax7yZOI8mTH6EVngUeWdbEYxGkKGS7-T2iT7uEbpka"/>
+<img src="https://www.shutterstock.com/search/iphone-logo"/>
 
 # Apple Restock Radar
 ### Automated Inventory Movement Dashboard
