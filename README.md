@@ -65,4 +65,4 @@ avg daily sales → days of stock cover → auto-classify → match surplus stor
 | Google Sheet | https://docs.google.com/spreadsheets/d/1XFfHsOKQQAmvy0YUpIQ3s2CsK-FwGGzG3GloysIcE0c/edit?usp=sharing |
 
 ---
-<div align="center"><sub>Built by <b>&lt;Your Name&gt;</b> — Data Analyst · Case study for a Data Analyst interview with Landmark Group</sub></div>
+<div align="center"><sub>Built by <b>&lt;Zahid Sami Shaik&gt;</b> — Data Analyst · Case study for a Data Analyst Group</sub></div>
