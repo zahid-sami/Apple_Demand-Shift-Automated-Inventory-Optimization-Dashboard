@@ -2,7 +2,7 @@
 
 <img src="" width="600" alt="https://allsport.mu/collections/apple?srsltid=AfmBOoqVWFIa-tax7yZOI8mTH6EVngUeWdbEYxGkKGS7-T2iT7uEbpka"/>
 
-# Restock Radar
+# Apple Restock Radar
 ### Automated Inventory Movement Dashboard
 
 **Stops stockouts before they happen — and tells you exactly which store to move stock from.**
