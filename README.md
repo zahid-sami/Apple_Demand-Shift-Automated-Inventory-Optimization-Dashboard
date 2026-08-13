@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.shutterstock.com/search/iphone-logo"/>
+<img src="https://mashable.com/live/apple-event-live-blog-iphone-17-ios-26-watch-announcement" width="600" alt="RestockRadar banner"/>
 
 # Apple Restock Radar
 ### Automated Inventory Movement Dashboard
