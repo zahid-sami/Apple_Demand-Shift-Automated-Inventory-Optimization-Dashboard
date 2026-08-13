@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="<img width="1200" height="309" alt="image" src="https://github.com/user-attachments/assets/780cb7df-8533-4fe2-8030-d5c5c9769765" />
+<img width="1200" height="309" alt="image" src="https://github.com/user-attachments/assets/780cb7df-8533-4fe2-8030-d5c5c9769765" />
 
 # Apple Restock Radar
 ### Automated Inventory Movement Dashboard
