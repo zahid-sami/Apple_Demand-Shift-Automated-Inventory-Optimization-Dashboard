@@ -43,7 +43,7 @@ Filter by store, category, model, or date — every chart and recommendation upd
 <div align="center">
 <img width="1905" height="908" alt="Screenshot 2026-08-14 010710" src="https://github.com/user-attachments/assets/e03ef681-2933-4a9d-92a1-99c6c814aa54" />
 <br><br>
-<img src="" width="90%" alt="add recommendations screenshot URL here"/>
+<img width="1907" height="901" alt="Screenshot 2026-08-14 012838" src="https://github.com/user-attachments/assets/ba9f4eec-6f01-4a52-bc12-7dafeb3115ba" />
 </div>
 
 ## ⚙️ How It Works
