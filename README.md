@@ -62,7 +62,7 @@ avg daily sales → days of stock cover → auto-classify → match surplus stor
 |---|---|
 | Automated Live Dashboard | https://script.google.com/macros/s/AKfycbw_6I2KFcDJWLebVQY54prE55m8CL6AKuGK4Pduq0OnEWLNeAya24GZstodqkY9osaVLA/exec |
 | Apps Script | https://script.google.com/u/0/home/projects/1jjbVTxflR9WU0GqQWTYtqucqNQcBndL8xK-5Ad3WNM7107IeV6WWsTsD/edit |
-| Google Sheet | https://docs.google.com/spreadsheets/d/1XFfHsOKQQAmvy0YUpIQ3s2CsK-FwGGzG3GloysIcE0c/edit |
+| Google Sheet | https://docs.google.com/spreadsheets/d/1XFfHsOKQQAmvy0YUpIQ3s2CsK-FwGGzG3GloysIcE0c/edit?usp=sharing |
 
 ---
 <div align="center"><sub>Built by <b>&lt;Your Name&gt;</b> — Data Analyst · Case study for a Data Analyst interview with Landmark Group</sub></div>
