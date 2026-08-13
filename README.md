@@ -45,6 +45,7 @@ Filter by store, category, model, or date — every chart and recommendation upd
 <br><br>
 <img width="1907" height="901" alt="Screenshot 2026-08-14 012838" src="https://github.com/user-attachments/assets/ba9f4eec-6f01-4a52-bc12-7dafeb3115ba" />
 </div>
+The best part of my dashboard is the Automated Insights section, where a backend Gemini API key is integrated, which reads all my data and, without any human involvement, can decide which store should be supplied with what quantity. It shows that decision-making becomes easier, that the AI effectively automates the end-to-end process, and that sometimes no human involvement is required. It decreases the delays in TAT (Turn Around Time).
 
 ## ⚙️ How It Works
 
