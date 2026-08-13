@@ -41,7 +41,7 @@ Filter by store, category, model, or date — every chart and recommendation upd
 ## 📸 Dashboard
 
 <div align="center">
-<img src="" width="90%" alt="C:\Users\zahid\OneDrive\Documents\Pictures\Screenshots\Screenshot 2026-08-14 010710.png"/>
+<img src=""<img width="1905" height="908" alt="Screenshot 2026-08-14 010710" src="https://github.com/user-attachments/assets/e03ef681-2933-4a9d-92a1-99c6c814aa54" />
 <br><br>
 <img src="" width="90%" alt="add recommendations screenshot URL here"/>
 </div>
