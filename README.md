@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="" width="600" alt="https://www.google.com/imgres?q=apple%20logo%20banner&imgurl=http%3A%2F%2Fallsport.mu%2Fcdn%2Fshop%2Fcollections%2Fapple_banner_1200x1200.jpg%3Fv%3D1654949691&imgrefurl=https%3A%2F%2Fallsport.mu%2Fcollections%2Fapple%3Fsrsltid%3DAfmBOoqVWFIa-tax7yZOI8mTH6EVngUeWdbEYxGkKGS7-T2iT7uEbpka&docid=MkM0TP2_WjugiM&tbnid=CDggqP6YfwGoCM&vet=12ahUKEwi3-OfQwZ6WAxV4UaQEHUGyO2MQnPAOegUItAIQAA..i&w=1200&h=309&hcb=2&ved=2ahUKEwi3-OfQwZ6WAxV4UaQEHUGyO2MQnPAOegUItAIQAA"/>
+<img src="" width="600" alt="https://allsport.mu/collections/apple?srsltid=AfmBOoqVWFIa-tax7yZOI8mTH6EVngUeWdbEYxGkKGS7-T2iT7uEbpka"/>
 
 # RestockRadar
 ### Automated Inventory Movement Dashboard
